@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-Limiter
+Flask-SQLAlchemy
+PyJWT
+bcrypt
+python-dotenv
+gunicorn
+requests
